@@ -12,9 +12,14 @@ public class main {
 		int a = sc.nextInt();
 		System.out.print("b = ");
 		int b = sc.nextInt();
+	System.out.println("wow");
 	
 		
 		sc.close();
+	}
+	
+	int minus(int a,int b){
+		return a-b;
 	}
 
 }
